@@ -1,5 +1,5 @@
 # HackerRank_10_Days_Of_Javascript
-##HackerRank Solutions: 10 Days Of Javascript
+HackerRank Solutions: 10 Days Of Javascript
 
 [All Problem](https://www.hackerrank.com/domains/tutorials/10-days-of-javascript)
 
